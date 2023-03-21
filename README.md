@@ -10,6 +10,10 @@
 <div align="right" margin="20px">
   <img src="https://komarev.com/ghpvc/?username=gleydsonbrito&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 👋 Hi, I’m @gleydsonbrito. I'm a master degree candidate and i learn and study programing languanges for the last 4 years
 - 👀 I’m interested in Web development, mobile development, python and genetic algorithms ...

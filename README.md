@@ -16,10 +16,9 @@
 </h1>
 
 - 👋 Hi, I’m @gleydsonbrito. I'm a master degree candidate and i learn and study programing languanges for the last 4 years
-- 👀 I’m interested in Web development, mobile development, python and genetic algorithms ...
-- 🌱 I’m currently learning and teaching Web Developmenet and Algorithms ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/gleydson-brito-9990b3a5/
+- 👀 I’m interested in Web development, mobile development, python and genetic algorithms.
+- 🌱 I’m currently learning and teaching Web Developmenet and Gentics Algorithma.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleydsonbrito&show_icons=true&theme=radical)
 

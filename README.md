@@ -21,9 +21,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/gleydson-brito-9990b3a5/
 
-<div align="right">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleydsonbrito&show_icons=true&theme=radical)
-</div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=gleydsonbrito&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 👋 Hi, I’m @gleydsonbrito. I'm a master degree candidate and i learn and study programing languanges for the last 4 years
 - 👀 I’m interested in Web development, mobile development, python and genetic algorithms ...

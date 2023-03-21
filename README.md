@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/gleydson-brito-9990b3a5/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gleydsonbrito=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleydsonbrito)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
